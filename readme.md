@@ -22,7 +22,7 @@
 ## 🖥 Preview
 
 
-## [Live Demo](https://vibrant-clarke-aba5c7.netlify.app)
+## [Live Demo](https://lenamiroux.github.io/Proffy/index.html)
 
 
 
