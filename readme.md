@@ -19,10 +19,7 @@
 - Github: [@highlander](https://github.com/highlander08)
 - LinkedIn: [@highlander08](https://linkedin.com/in/highlander08)
 
-## 🖥 Preview
-
-
-## [Live Demo](https://lenamiroux.github.io/Proffy/index.html)
+## 🖥 [Live Demo](https://lenamiroux.github.io/Proffy/index.html)
 
 
 
