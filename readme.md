@@ -11,9 +11,6 @@
 
 > Web Platform to connect students and teachers.
 
-## 🏷 About 
-Project developed in August of 2020 as result of the Discovery trail inside the Next Level Week #2. The [NLW](https://nextlevelweek.com/) is an event promoted by [@Rocketseat](https://github.com/Rocketseat) that gathers a community of developers with a goal of improving their skills together.
-
 ## 👤 Author
 
 **Highlander Santos**
@@ -35,12 +32,7 @@ Project developed in August of 2020 as result of the Discovery trail inside the 
 - Nunjucks
 - SQLite
 
-
-## 🥰 Show your support
-
-Give a ⭐️ if this project helped you!
-
-
 _Made with 💜 by [Highlander Santos](http://www.github.com/highlander08)_
+
 [Explaining proffy application server working](https://www.youtube.com/watch?v=ry3vGJ17TCo)
 
