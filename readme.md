@@ -13,12 +13,12 @@ Project developed in August of 2020 as result of the Discovery trail inside the 
 
 ## 👤 Author
 
-**Helena Neves**
+**Highlander Santos**
 
-- Twitter: [@lenamiroux](https://twitter.com/lenamiroux)
-- Github: [@lenamiroux](https://github.com/lenamiroux)
-- LinkedIn: [@lenamiroux](https://linkedin.com/in/lenamiroux)
-- Rocketseat: [@lenamiroux](https://app.rocketseat.com.br/me/)
+- Twitter: [@highlander](https://twitter.com/Rai00991)
+- Github: [@highlander](https://github.com/highlander08)
+- LinkedIn: [@highlander](https://linkedin.com/in/highlander08)
+- Rocketseat: [@highlander](https://app.rocketseat.com.br/me/)
 
 ## 🖥 Preview
 
@@ -57,4 +57,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-_Made with 💜 by [Helena Simões](http://www.github.com/lenamiroux)_
+_Made with 💜 by [Highlander Santos](http://www.github.com/highlander08)_
