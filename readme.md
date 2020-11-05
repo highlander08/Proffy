@@ -22,7 +22,7 @@
 ## 🖥 Preview
 
 
-## [live demo](https://vibrant-clarke-aba5c7.netlify.app)
+## [Live Demo](https://vibrant-clarke-aba5c7.netlify.app)
 
 
 
