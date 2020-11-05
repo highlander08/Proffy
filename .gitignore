@@ -1,0 +1,18 @@
+# MacOS Files
+.DS_Store
+
+# Folders
+0_docs/
+1_files/
+
+# File Types
+*.code-workspace
+*.log
+*.log*
+
+# Modules
+node_modules/
+
+# Test Files
+welcome.njk
+fake_data.js
