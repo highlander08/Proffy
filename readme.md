@@ -18,7 +18,6 @@ Project developed in August of 2020 as result of the Discovery trail inside the 
 - Twitter: [@highlander](https://twitter.com/Rai00991)
 - Github: [@highlander](https://github.com/highlander08)
 - LinkedIn: [@highlander](https://linkedin.com/in/highlander08)
-- Rocketseat: [@highlander](https://app.rocketseat.com.br/me/)
 
 ## 🖥 Preview
 
