@@ -21,7 +21,9 @@
 
 ## 🖥 Preview
 
+
 [live demo(https://vibrant-clarke-aba5c7.netlify.app)
+
 
 
 ## 🧰 Technologies
@@ -33,6 +35,7 @@
 - SQLite
 
 _Made with 💜 by [Highlander Santos](http://www.github.com/highlander08)_
+
 
 [Explaining proffy application server working](https://www.youtube.com/watch?v=ry3vGJ17TCo)
 
