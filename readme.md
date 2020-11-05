@@ -15,7 +15,7 @@
 
 **Highlander Santos**
 
-- Twitter: [@hRai00991](https://twitter.com/Rai00991)
+- Twitter: [@Rai00991](https://twitter.com/Rai00991)
 - Github: [@highlander](https://github.com/highlander08)
 - LinkedIn: [@highlander08](https://linkedin.com/in/highlander08)
 
