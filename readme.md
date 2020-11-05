@@ -31,6 +31,11 @@
 - Nunjucks
 - SQLite
 
+<a href="https://youtu.be/lziAk0J_Ppc?t=37" target="_blank" align="center">
+  <img src="./assets/challenge-02-thumb.png">
+</a>
+
+
 _Made with 💜 by [Highlander Santos](http://www.github.com/highlander08)_
 
 
